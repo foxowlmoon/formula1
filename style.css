@@ -26,7 +26,12 @@ img { border-radius: 33%; height: 100px; width: 100px; float: left;
 
 }
 
-button{ 
+.button{ text-align: right;
 
 
+}
+
+body{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
 }
